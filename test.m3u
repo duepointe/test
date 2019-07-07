@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ABSCBN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/ABS-CBNHD.png" group-title="PINOY",PH: ABSCBN
+#EXTVLCOPT:network-caching=1000
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_800_av-b.m3u8?sd=10&rebase=on&id=AgDefyo8F8iOF7P5IV1Tg%2fiRLdC3Fa1yCVO8Bdt%2fcULDtbGImn8bI8NCbdIdXPXo%2fekCmZrPyk8YhA%3d%3d&hdntl=exp=1562594099~acl=%2f*~data=hdntl~hmac=bec9a7d885c29c1fb6067e5e93d512e8ca93818a01f04f7816efbf914906dd2c
+
+#EXTINF:-1 tvg-name="DZMM" tvg-logo="https://img.abs-cbnnews.com/2017/images/masthead-dzmm-logo.png" group-title="PINOY",PH: DZMM
+#EXTVLCOPT:network-caching=1000
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/index_800_av-b.m3u8?sd=10&rebase=on&id=AgDefyo8F8iOFdAXIl0SKvxwZ4LpxgQoIazZduBhTydW4905tFXzybEfrmhbkncxF0r31EYAE%2fAong%3d%3d&hdntl=exp=1562601808~acl=%2f*~data=hdntl~hmac=e05c0983dbcb230dc2e7b78e3d405126e3396c1ebc70882623fc3d7f3e76f943
+
+#EXTINF:-1 tvg-name="NEWS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NEWS5.svg/1200px-NEWS5.svg.png" group-title="PINOY",PH: NEWS5
+#EXTVLCOPT:network-caching=1000
+http://stream1.news5.ph/n5e/tv5_2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN PH" tvg-logo="https://c7.uihere.com/files/1013/471/618/cebu-manila-pasay-philippine-airlines-first-philippine-industrial-park-news-thumb.jpg" group-title="PINOY",PH: CNNPH
+#EXTVLCOPT:network-caching=1000
+rtmp://54.251.134.121/live/15273.sdp?h=166952631088920
