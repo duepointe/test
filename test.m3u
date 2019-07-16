@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 716
 #EXTINF:-1 tvg-name="ABSCBN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/ABS-CBNHD.png" group-title="PINOY",PH: ABSCBN
 #EXTVLCOPT:network-caching=1000
 https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-b.m3u8?sd=10&rebase=on&id=AgDefyo8FwIQFhWmLV2%2f+kZeVmTHLNuHhZrZEnzHT9UnCSbux5zU1qsDXt2bKO1ypEQ%2fJmtf%2fwxQxQ%3d%3d&hdntl=exp=1563359125~acl=%2f*~data=hdntl~hmac=7c5b9a820dcf71072a994dc6ea39e8cdd0958d8f3e24e2d5dc603aa9d4975095
@@ -6,6 +6,7 @@ https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_1500_av-b.m
 #EXTINF:-1 tvg-name="DZMM" tvg-logo="https://img.abs-cbnnews.com/2017/images/masthead-dzmm-logo.png" group-title="PINOY",PH: DZMM
 #EXTVLCOPT:network-caching=1000
 https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/index_800_av-b.m3u8?sd=10&rebase=on&id=AgDefyo8FwIQFHqmLV20%2fRSkw1CxDU1SHT06KVHEGVf2keBcjhU596WZtGb+qYBWYSwMnhAp+UZsmw%3d%3d&hdntl=exp=1563359226~acl=%2f*~data=hdntl~hmac=28e1ad72cdc455c274c4bf483f58ff2f4979117174348574b8fcc40f1f672e8a
+
 #EXTINF:-1 tvg-name="NEWS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NEWS5.svg/1200px-NEWS5.svg.png" group-title="PINOY",PH: NEWS5
 #EXTVLCOPT:network-caching=1000
 http://stream1.news5.ph/n5e/tv5_2/playlist.m3u8
